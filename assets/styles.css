@@ -480,3 +480,5 @@ figure { margin: 0; }
 .experience-list li { margin: 0; font: 500 clamp(1.125rem, 2.4vw, 1.625rem)/1.2 var(--serif); letter-spacing: -.01em; color: var(--muted); white-space: nowrap; }
 .experience-note { max-width: 62ch; margin: 24px auto 0; text-align: center; }
 .experience .fineprint { color: var(--muted); }
+
+address { font-style: normal; }
